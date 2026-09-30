@@ -1,0 +1,4 @@
+aiogram==3.31.0
+# googletrans 4.0.0rc1 заменён на поддерживаемый deep-translator; gTTS, requests, aiohttp не использовались
+deep-translator==1.11.4
+pypdf==6.19.0
